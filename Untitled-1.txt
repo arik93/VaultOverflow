@@ -1,0 +1,6 @@
+/question
+
+GET /question, /question/:id
+POST /question
+PATCH/PUT /question/:id
+DELETE /question/:id
